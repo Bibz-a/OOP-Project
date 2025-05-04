@@ -9,6 +9,7 @@ void setColor(int color) {
 
 #include <iomanip>
 using namespace std;
+dfrertytjtyj
 
 class CityObj {
 protected:
